@@ -6,6 +6,7 @@ Sistema para calcular propinas, subtotal y total para añadir una orden, segun l
   - TypeScript
   - Html
   - Hecho con Vite
+  - TailwindCss
   - Se mejora el performance renderizando componentes especificos
   - Usamos Reducer para manejar la logica de los datos, optimizando y mejorando la escalacion del proyecto con el manejo de datos
 
